@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Sou apaixonado pela utilização da tecnologia para resolver problemas complexos e ter um impacto positivo no mundo.Estou ansioso por me relacionar com outros profissionais de tecnologia e explorar novas oportunidades de crescimento e desenvolvimento.
 <!--
 **calquiboy/calquiboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
